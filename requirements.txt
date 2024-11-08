@@ -1,0 +1,12 @@
+pandas 
+numpy 
+sentence-transformers
+transformers
+sklearn
+nltk
+huggingface_hub
+spacy
+chromadb
+accelerate
+PyPDF2
+torch
